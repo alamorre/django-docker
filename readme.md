@@ -22,6 +22,9 @@ docker run -p 8000:8080 \
 --env DB_PORT=5432 \
 django-docker-project
 ```
+### Diagram:
+![image.png](/.eraser/DhP1ooQBW592bkevNT9e___2z0eW5g8k6Ul26CqFFCWf88cv422___SNJl90dssWW6QVFqLyllI.png "image.png")
+
 ### Next Steps:
 Connect Django to PostgreSQL (with AWS RDS)
 
